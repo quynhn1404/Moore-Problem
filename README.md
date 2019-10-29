@@ -7,7 +7,7 @@ per year is dependent on how many years he waits to purchase his components. If 
 (potentially floating point) years to grade k students, then the amount of years to grades to grade the 
 students is 
 
-        **k/H^sqrt(n)**
+**k/H^sqrt(n)**
 
 where H is a constant determined by the component Mordon is purchasing.
 ## Example
